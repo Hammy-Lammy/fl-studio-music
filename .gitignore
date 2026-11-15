@@ -1,0 +1,6 @@
+.next/
+dist/
+node_modules/
+.cache/
+.pnpm-store/
+dist/
